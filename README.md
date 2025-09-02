@@ -33,6 +33,11 @@ This project introduces a **vision-based wearable navigation assistant** that pr
 
 ---
 
+## 📺 Demo
+🎥 Click the preview below to watch the full video demonstration on YouTube:  
+
+[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtube.com/shorts/Pdt93RxYOTc?feature=share)
+
 
 ## ⚡ Features
 - Real-time **object detection** with MobileNet-SSD.  
